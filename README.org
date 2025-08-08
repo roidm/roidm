@@ -28,17 +28,9 @@
 - GitHub: [[https://github.com/roidm][@roidm]]
 - Mastodon: [[https://fosstodon.org/@roidm][@roidm@fosstodon.org]]
 
-** 🛠️ Tech Stack
-#+begin_center
-| Linux   | Emacs   | Python | Rust   | Lua    | Git    |
-|---------+---------+--------+--------+--------+--------|
-| [[https://www.kernel.org/][🐧]] | [[https://www.gnu.org/software/emacs/][✎]] | [[https://www.python.org/][🐍]] | [[https://www.rust-lang.org/][🦀]] | [[https://www.lua.org/][🌙]] | [[https://git-scm.com/][🌿]] |
-#+end_center
-
-
 ** 📌 Featured Projects
-1. [[https://github.com/roidm/linux-config][My Linux Config]]: Personal dotfiles for Arch Linux + i3wm
-2. [[https://github.com/roidm/emacs.d][My Emacs Config]]: Personal Emacs framework with Doom Emacs
+1. [[https://github.com/roidm/linux-config][Linux Config]]: Personal dotfiles for Gentoo Linux + Niri
+2. [[https://github.com/roidm/emacs.d][Emacs Config]]: Personal Emacs framework with Doom Emacs
 3. [[https://github.com/roidm/rust-scripts][Rust Scripts]]: Command-line utilities written in Rust
 4. [[https://github.com/roidm/lua-plugins][Lua Plugins]]: Neovim/Emacs plugin collection in Lua
 
@@ -52,4 +44,4 @@
 - Contribute to the [[https://www.kernel.org/doc/html/latest/process/submitting-patches.html][Linux kernel]]
 
 ---
-*Made with ❤️ using Emacs and Org-mode*)
+*Made with ❤️ using Emacs and Org-mode*

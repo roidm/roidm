@@ -3,7 +3,7 @@
 #+EMAIL: roidm@protonmail.com
 #+OPTIONS: toc:nil num:nil
 
-* 👋 Hi! I'm roidm
+* 👋 Hi! I'm Roi
 ** 🚀 About Me
 - Open-source enthusiast and free software advocate
 - Passionate about [[https://www.kernel.org/doc/html/latest/][Linux]] operating systems and development tooling

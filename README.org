@@ -1,0 +1,55 @@
+#+TITLE: roidm | GitHub Profile
+#+AUTHOR: roidm
+#+EMAIL: roidm@protonmail.com
+#+OPTIONS: toc:nil num:nil
+
+* 👋 Hi! I'm roidm
+** 🚀 About Me
+- Open-source enthusiast and free software advocate
+- Passionate about [[https://www.kernel.org/doc/html/latest/][Linux]] operating systems and development tooling
+- Devoted [[https://www.gnu.org/software/emacs/][Emacs]] user and Unix philosophy believer
+- Specialized in [[https://www.python.org/][Python]], [[https://www.rust-lang.org/][Rust]], and [[https://www.lua.org/][Lua]] development
+
+** 🌐 Connect with Me
+- GitHub: [[https://github.com/roidm][@roidm]]
+- Mastodon: [[https://fosstodon.org/@roidm][@roidm@fosstodon.org]]
+
+** 🛠️ Tech Stack
+#+begin_center
+| Linux   | Emacs   | Python | Rust   | Lua    | Git    |
+|---------+---------+--------+--------+--------+--------|
+| [[https://www.kernel.org/][🐧]] | [[https://www.gnu.org/software/emacs/][✎]] | [[https://www.python.org/][🐍]] | [[https://www.rust-lang.org/][🦀]] | [[https://www.lua.org/][🌙]] | [[https://git-scm.com/][🌿]] |
+#+end_center
+
+** 📊 GitHub Stats
+#+begin_center
+[[https://github-readme-stats.vercel.app/api?username=roidm&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true][GitHub Stats]]
+#+end_center
+
+** #+begin_center
+[[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black][Linux]]
+[[https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white][Emacs]]
+[[https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white][Rust]]
+#+end_center
+
+** #+begin_center
+[[https://github-readme-stats.vercel.app/api/top-langs/?username=roidm&layout=compact&theme=gruvbox][Top Languages]]
+#+end_center
+
+** 📌 Featured Projects
+1. [[https://github.com/roidm/linux-config][My Linux Config]]: Personal dotfiles for Arch Linux + i3wm
+2. [[https://github.com/roidm/emacs.d][My Emacs Config]]: Personal Emacs framework with Doom Emacs
+3. [[https://github.com/roidm/rust-scripts][Rust Scripts]]: Command-line utilities written in Rust
+4. [[https://github.com/roidm/lua-plugins][Lua Plugins]]: Neovim/Emacs plugin collection in Lua
+
+** 📚 Blog & Articles
+- [[https://roidm.dev/emacs-rust-workflow][Setting up Emacs for Rust Development]]
+- [[https://roidm.dev/linux-terminal-productivity][Linux Terminal Productivity]]
+- [[https://roidm.dev/lua-emacs-integration][Integrating Lua with Emacs]]
+
+** 🎯 Goals
+- Become a [[https://www.rust-lang.org/governance/wgs][Rust project committer]]
+- Contribute to the [[https://www.kernel.org/doc/html/latest/process/submitting-patches.html][Linux kernel]]
+
+---
+*Made with ❤️ using Emacs and Org-mode*)

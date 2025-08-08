@@ -12,9 +12,12 @@
 
 ** 🏆 Badges & Skills
 #+begin_center
-| Emacs | Open Source | Linux | Rust | Python | Lua |
-|-------+-------------+-------+------+--------+-----|
-| [[https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white][Emacs]] | [[https://img.shields.io/badge/Open%20Source-1f8b6c?style=for-the-badge&logo=opensource&logoColor=white][Open Source]] | [[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black][Linux]] | [[https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white][Rust]] | [[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white][Python]] | [[https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white][Lua]] |
+[[https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white]]
+[[https://img.shields.io/badge/Open%20Source-1f8b6c?style=for-the-badge&logo=opensource&logoColor=white]]
+[[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black]]
+[[https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white]]
+[[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white]]
+[[https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white]]
 #+end_center
 
 ** 🌐 Connect with Me
